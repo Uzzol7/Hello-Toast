@@ -4,6 +4,6 @@ This is first lab exercise for Component 1.
 
 
 
+![hello toast coding challenge](https://user-images.githubusercontent.com/77341562/145594028-5139b6be-bc50-4678-a7e4-fd3642d1c285.gif)
 
-![activiyiesandintent-task1](https://user-images.githubusercontent.com/53834888/145594083-ce837378-6985-4202-b738-e0ab67dc5c57.gif)
 
