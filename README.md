@@ -2,4 +2,8 @@
 This is first lab exercise for Component 1.  
 
 
-![codingchallenge](https://user-images.githubusercontent.com/77341562/145535641-21b12eb5-a191-4982-bbd7-bbfd04afed9d.JPG)
+
+
+
+![activiyiesandintent-task1](https://user-images.githubusercontent.com/53834888/145594083-ce837378-6985-4202-b738-e0ab67dc5c57.gif)
+
